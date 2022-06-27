@@ -4,11 +4,7 @@
 A simple demo on how to set up an Android Client that connects to a WebSocket server using [Spring Boot](https://spring.io/projects/spring-boot). For the client-to-client demo, we use [PubNub's Android SDK](https://www.pubnub.com/docs/android-java/pubnub-java-sdk) to securely and reliably send data between clients without setting up a server.
 
 ## Setup
-1) Sign up for a free PubNub account to get your Pub/Sub API keys.
-
- <a href="https://dashboard.pubnub.com/signup?devrel_gh=java-websocket-demo">
-    <img alt="PubNub Signup" src="https://i.imgur.com/og5DDjf.png" width=260 height=97/>
-  </a>
+1) [Sign up](https://admin.pubnub.com/) for a free PubNub account to get your Pub/Sub API keys.
 
 2) Clone the repo.
 ```bash
@@ -41,6 +37,4 @@ To learn more about this project or if you want to build this project from scrat
 
   <a href="https://www.pubnub.com/blog/java-websocket-programming-with-android-and-spring-boot/?devrel_gh=java-websocket-demo">
     <img alt="PubNub Blog" src="https://i.imgur.com/aJ927CO.png" width=260 height=98/>
-    <br>
-    [Source](https://www.pubnub.com/blog/java-websocket-programming-with-android-and-spring-boot/)
   </a>
